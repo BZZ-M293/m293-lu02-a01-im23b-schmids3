@@ -19,13 +19,13 @@ main {
 }
 
 article {
-    background-color: brown;
+    background-color: #a52a2a;
     color: white;
     padding: 10px;
 }
 
 section {
-    background-color: darkolivegreen;
+    background-color: #556b2f;
     color: black;
     padding: 10px;
 }
